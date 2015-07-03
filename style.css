@@ -1,0 +1,102 @@
+html, body{
+	height: 100%;
+	margin:0px;
+	padding: 0px;
+	width: 100%;
+}
+.list3{
+	margin:0px;
+	padding: 0px;
+	float: right;
+	padding-right:40px;
+}
+#image{
+	position: relative;
+	top:8px;
+}
+.list3 li{
+	margin: 0px 7px 0px 7px;
+}
+.a1{
+	color: #666666;
+}
+.a1:hover, .a2:hover{
+	text-decoration: underline;
+}
+#google{ 
+    display: block;
+ 	width: 269px; 
+  	height: 95px;
+}
+
+.header{
+	margin:0px;
+	padding: 0px;
+	height: 20%;
+}
+
+.jumbotron{
+	height: 75%;
+}
+input{
+	display: block;
+	margin-top: 15px;
+	height: 20px;
+	width: 550px;
+}
+.button{
+	margin-top:15px;
+	display: block;
+	width: 275px;
+	height: 20px;
+}
+button{
+	font-size:11px;
+	font-family: arial, sans-serif;
+	color:#444;
+	font-weight: bold;
+	border:1px solid #dcdcdc;
+	background-color: #F5F5F5;
+	text-align: center;
+	height: 29px;
+	width:121px;
+}
+#f{
+	position: relative;
+	float:left;
+}
+#g{
+	position: relative;	
+	float:right;
+}
+.footer{
+	border-top:1px solid #e4e4e4;
+	overflow: hidden;
+	margin:0px;
+	padding:0px;
+	background-color: #f2f2f2;
+	height: 4.94%;
+}
+
+.list2{
+	float:right;
+}
+.list1{
+	padding: 0px;
+	float:left;
+}
+.list, li{
+	display: inline;
+	margin-left: 25px; 
+	margin-right: 25px;
+}
+.a1, .a2{
+	color:#666;
+	text-decoration: none;
+}
+
+#google, input, .button{
+    margin-left: auto;
+    margin-right: auto;
+}
+
